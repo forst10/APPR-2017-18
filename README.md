@@ -4,6 +4,11 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2017/18
 
 ## Analiza donosnosti investicij v ICO-te
 
+Za projekt sem si izbral analizo donosnosti investicij v ICO-te. 
+
+"ICO" (initial coin offering) oz. "TGE" (token generation event) oz. "TDE"" (token distribution event) oz. "TS"" (token sale) pomeni prvo ponudbo prodaje kriptokovancev oziroma kriptožetonov. Gre za način množičnega financiranja, ki zagonskim podjetjem zagotovi financiranje - podjetje izda svoj kriptožeton (token) v zameno za plačilo s kriptovaluto. ICO-ti v zadnjem času rastejo kot gobe po dežju, v letu 2017 je bilo na ta način zbranih že več kot 3,5 miljarde ameriških dolarjev. Zaradi opevanih visokih donosnosti ICO-ti privabljajo ogromno investitorjev (tudi neizkušenih), ki mnogokrat na slepo vložijo svoj denar in večinoma tudi dobro zaslužijo. Zato sem se odločil, da raziščem to področje in analiziram, kakšne so možnosti za zaslužek, kolikšna je donosnost v povprečju, itd.
+
+Izbral si bom neko borzo s kriptožetoni (npr. HitBTC) in pridobil podatke o cenah v določenih obdobjih, te pa bom primerjal s ceno žetona, po kateri ga je pridobil investitor v času ICO-ta in tako dobil razliko (zaslužek/izgubo).
 
 ## Program
 
